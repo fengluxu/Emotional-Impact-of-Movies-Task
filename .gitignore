@@ -75,6 +75,6 @@ venv.bak/
 .ropeproject
 
 # Data
-MEDIAEVAL18-DevSet-Part1-Fear-annotations
-MEDIAEVAL18-DevSet-Part1-Valence_Arousal-annotations
-MEDIAEVAL18-DevSet-Part1-Visual_features
+MEDIAEVAL18-DevSet-Part1-Fear-annotations/
+MEDIAEVAL18-DevSet-Part1-Valence_Arousal-annotations/
+MEDIAEVAL18-DevSet-Part1-Visual_features/
